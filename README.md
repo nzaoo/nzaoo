@@ -1,7 +1,8 @@
-# 👋 Hello, I’m Nzaoo
-
-+ Currently leveling up in the world of web dev.
-Still a newbie, but gaining XP with every bug I squash.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e77ff&height=200&section=header&text=👋 Hello, I’m Nzaoo&fontSize=40&fontColor=ffffff" />
+</p> 
++ I’m currently a learner and explorer in the world of web development.  
+Not an expert (yet), but I enjoy building, breaking, and learning from it.
 
 ---
 
@@ -13,9 +14,9 @@ Still a newbie, but gaining XP with every bug I squash.
 
 ---
 
-###  Projects I'm Working On
--  A digital contact card (simple personal site)
--  Experiments with small JavaScript tools & UI effects
+### 🌱 Projects I'm Working On
+- 🧩 A digital contact card (simple personal site)
+- 🧪 Experiments with small JavaScript tools & UI effects
 
 ---
 
@@ -36,7 +37,7 @@ Still a newbie, but gaining XP with every bug I squash.
 
 ---
 
-###  Why this profile exists
+### 📌 Why this profile exists
 
 + This GitHub profile is like my little notebook —
 a place where I try things, make mistakes, and slowly figure things out.
@@ -46,11 +47,11 @@ But every bit of code I write helps me understand a little more than yesterday.
 
 ---
 
-###  Contact Me
+### 📫 Contact Me
 - Email: [nzaoo.1372@gmail.com](mailto:nzaoo.1372@gmail.com)
-- Website: [nzaoo.github.io]([https://nzaoo.github.io](https://nzaoo.github.io/nzao_card/))
+- Website: [nzaoo.github.io](https://nzaoo.github.io)
 
 ---
 
->  Thanks for visiting.  
+> 🧠 Thanks for visiting.  
 > If you see this page evolve — that means I’m still learning, and I’m not giving up.
