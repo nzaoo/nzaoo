@@ -48,7 +48,7 @@ But every bit of code I write helps me understand a little more than yesterday.
 
 ### 📫 Contact Me
 - Email: [nzaoo.1372@gmail.com](mailto:nzaoo.1372@gmail.com)
-- Website: [nzaoo.github.io](https://nzaoo.github.io)
+- Website: [nzaoo.github.io]([https://nzaoo.github.io](https://nzaoo.github.io/nzao_card/))
 
 ---
 
