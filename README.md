@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e77ff&height=200&section=header&text=👋 Hello, I’m Nzaoo&fontSize=40&fontColor=ffffff" />
-</p>
+# 👋 Hello, I’m Nzaoo
+
+
 + I’m currently a learner and explorer in the world of web development.  
 Not an expert (yet), but I enjoy building, breaking, and learning from it.
 
