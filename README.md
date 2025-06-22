@@ -1,7 +1,7 @@
 # 👋 Hello, I’m Nzaoo
 
-+ I’m currently a learner and explorer in the world of web development.  
-Not an expert (yet), but I enjoy building, breaking, and learning from it.
++ Currently leveling up in the world of web dev.
+Still a newbie, but gaining XP with every bug I squash.
 
 ---
 
