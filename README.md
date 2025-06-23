@@ -10,7 +10,7 @@ Not an expert (yet), but I enjoy building, breaking, and learning from it.
 - JavaScript (Vanilla, DOM manipulation)
 - Git & GitHub (version control, collaboration)
 - Building real, usable projects — one step at a time
-
+ 
 ---
 
 ### 🌱 Projects I'm Working On
