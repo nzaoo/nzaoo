@@ -2,8 +2,6 @@
 
 <div align="center">
 
-  <!-- Enhanced Header with Better Gradient -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nzaoo&fontSize=50&fontColor=ffffff&animation=twinkling&fontA lign=50&fontAlignY=35&desc=Aspiring%20Coder&descSize=20&descAlign=50&descAlignY=55" />
 
   <!-- Enhanced Multi-line Typing Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00D9FFff&center=true&vCenter=true&width=800&lines=🚀+Full-Stack+Web+Developer;⚡+React+%7C+Node.js+%7C+JavaScript;🎨+Passionate+About+Clean+Code;💡+Building+Digital+Solutions;🌟+Always+Learning+%26+Growing" alt="Typing Animation" />
@@ -156,7 +154,5 @@ _- Robert C. Martin_
 
 **Thank you for visiting my profile!** 🚀
 _Feel free to explore my repositories and don't hesitate to reach out for collaboration opportunities._
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
 
 </div>
