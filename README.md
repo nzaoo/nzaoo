@@ -106,23 +106,6 @@ I’m Zaoo, an aspiring web developer navigating the world of code one line at a
 
 ---
 
-## 🎯 Current Goals & Learning Path
-
-<div align="center">
-
-| 🎯 **Short Term (2025)**       | 🚀 **Long Term (2025-2026)**                |
-| ------------------------------ | ------------------------------------------- |
-| ✅ Master TypeScript & Next.js | 🎯 Contribute to major open-source projects |
-| ✅ Learn Docker & Kubernetes   | 🎯 Build a SaaS product from scratch        |
-| ✅ Get AWS Certification       | 🎯 Mentor junior developers                 |
-| ✅ Build 3 full-stack projects | 🎯 Speak at tech conferences                |
-
-</div>
-
----
-
-## 🤝 Let's Connect & Collaborate
-
 <div align="center">
 
 I'm always excited to connect with fellow developers, discuss new technologies, or collaborate on interesting projects!
