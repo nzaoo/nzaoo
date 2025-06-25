@@ -2,7 +2,6 @@
 
 <div align="center">
 
-
   <!-- Enhanced Multi-line Typing Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00D9FFff&center=true&vCenter=true&width=800&lines=🚀+Full-Stack+Web+Developer;⚡+React+%7C+Node.js+%7C+JavaScript;🎨+Passionate+About+Clean+Code;💡+Building+Digital+Solutions;🌟+Always+Learning+%26+Growing" alt="Typing Animation" />
 
