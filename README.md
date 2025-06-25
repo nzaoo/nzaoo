@@ -1,75 +1,179 @@
-# 👋 Hello, I’m Nzaoo
+# 👋 Hi there, I'm Nzaoo!
 
-+ I’m currently a learner and explorer in the world of web development.  
-Not an expert (yet), but I enjoy building, breaking, and learning from it.
+<div align="center">
+
+  <!-- Enhanced Header with Better Gradient -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nzaoo&fontSize=50&fontColor=ffffff&animation=twinkling&fontA lign=50&fontAlignY=35&desc=Aspiring%20Coder&descSize=20&descAlign=50&descAlignY=55" />
+
+  <!-- Enhanced Multi-line Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00D9FFff&center=true&vCenter=true&width=800&lines=🚀+Full-Stack+Web+Developer;⚡+React+%7C+Node.js+%7C+JavaScript;🎨+Passionate+About+Clean+Code;💡+Building+Digital+Solutions;🌟+Always+Learning+%26+Growing" alt="Typing Animation" />
+
+  <!-- Enhanced Status Badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/🚀%20Status-Open%20to%20Opportunities-00ff00?style=for-the-badge&labelColor=000000" alt="Status" />
+    <img src="https://img.shields.io/badge/📍%20Based%20in-Vietnam-ff6b6b?style=for-the-badge&labelColor=000000" alt="Location" />
+    <img src="https://img.shields.io/badge/💻%20Focus-Full%20Stack%20Development-4ecdc4?style=for-the-badge&labelColor=000000" alt="Focus" />
+  </p>
+
+</div>
 
 ---
 
-### 🛠 What I’m Learning
-- HTML & CSS (layout, responsive design)
-- JavaScript (Vanilla, DOM manipulation)
-- Git & GitHub (version control, collaboration)
-- Building real, usable projects — one step at a time
- 
+## 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+I’m Zaoo, an aspiring web developer navigating the world of code one line at a time — still stumbling over bugs, but learning and growing with every error and every fix.
+
+### 🎯 Current Focus
+
+- 🔥 **Build:** Basic games, beginner-friendly websites
+- 📚 **Learn:** Basic programming languages ​​such as HTML, CSS, JavaScript,...
+- 🚀 **Goal:** Get exposed to real projects to increase experience and problem-solving ability
+- 💡 **Philosophy:** Write code with purpose, know what you are lacking, what is unfinished to increase experience
+
+### ⚡ Quick Facts
+
+- 🌱 Starting to learn coding day by day
+- 🎓 Self-taught developer with a passion for continuous learning
+- 🏆 Currently building new projects like games
+- 🤝 Love to learn and explore through bugs
+
 ---
 
-### 🌱 Projects I'm Working On
-- 🧩 A digital contact card (simple personal site)
-- 🧪 Experiments with small JavaScript tools & UI effects
+## 🛠️ Tech Arsenal
 
----
+<div align="center">
 
-### 🔧 Tech I'm Exploring
+### **Frontend Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,figma" />
 </p>
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nzaoo&show_icons=true&theme=tokyonight&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzaoo&layout=compact&theme=tokyonight&langs_count=6" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nzaoo&theme=tokyonight&hide_border=false" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nzaoo&theme=tokyonight" />
-</p>
-
----
-
-### 🏷️ Badges & Useful Links
+### **Backend Development**
 
 <p>
-  <img src="https://img.shields.io/badge/Code%20Status-Active-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/github/followers/nzaoo?label=Follow&style=social" />
-  <img src="https://img.shields.io/github/last-commit/nzaoo/nzaoo.github.io?label=Last%20Update&color=informational" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nzaoo.visitor" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,mongodb,mysql,postgresql" />
 </p>
 
+### **Tools & Technologies**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,netlify,vercel,postman" />
+</p>
+
+### **Currently Mastering**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=graphql,redis,kubernetes,tensorflow,firebase,supabase" />
+</p>
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nzaoo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzaoo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nzaoo&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nzaoo&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" />
+</div>
+
 ---
 
-### 📌 Why this profile exists
+## 🏆 Achievements & Recognition
 
-+ This GitHub profile is like my little notebook —  
-a place where I try things, make mistakes, and slowly figure things out.
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nzaoo&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+</div>
 
-+ Some projects might not work. Some are just me testing an idea.  
-But every bit of code I write helps me understand a little more than yesterday.
+<div align="center">
+
+### 📈 Profile Metrics
+
+<img src="https://img.shields.io/github/followers/nzaoo?label=Followers&style=for-the-badge&logo=github&color=F85D7F&labelColor=0D1117" />
+<img src="https://img.shields.io/github/stars/nzaoo?label=Total%20Stars&style=for-the-badge&logo=github&color=F85D7F&labelColor=0D1117" />
+<img src="https://komarev.com/ghpvc/?username=nzaoo&style=for-the-badge&color=F85D7F&labelColor=0D1117" />
+
+</div>
 
 ---
 
-### 📫 Contact Me
-- Email: [nzaoo.1372@gmail.com](mailto:nzaoo.1372@gmail.com)
-- Website: [nzaoo.github.io](https://nzaoo.github.io)
+## 🎯 Current Goals & Learning Path
+
+<div align="center">
+
+| 🎯 **Short Term (2025)**       | 🚀 **Long Term (2025-2026)**                |
+| ------------------------------ | ------------------------------------------- |
+| ✅ Master TypeScript & Next.js | 🎯 Contribute to major open-source projects |
+| ✅ Learn Docker & Kubernetes   | 🎯 Build a SaaS product from scratch        |
+| ✅ Get AWS Certification       | 🎯 Mentor junior developers                 |
+| ✅ Build 3 full-stack projects | 🎯 Speak at tech conferences                |
+
+</div>
 
 ---
 
-> 🧠 Thanks for visiting.  
-> If you see this page evolve — that means I’m still learning, and I’m not giving up.
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+I'm always excited to connect with fellow developers, discuss new technologies, or collaborate on interesting projects!
+
+### 📬 **Get In Touch**
+
+<a href="mailto:nzaoo.1372@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://nzaoo.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-4ECDC4?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/nzaoo">
+  <img src="https://img.shields.io/badge/LinkedIn-45B7D1?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/nzaoo">
+  <img src="https://img.shields.io/badge/Twitter-96CEB4?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+### 💝 **Support My Work**
+
+<a href="https://ko-fi.com/nzaoo">
+  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
+</a>
+<a href="https://github.com/sponsors/nzaoo">
+  <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 💭 Daily Inspiration
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker" />
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 **"Clean code always looks like it was written by someone who cares."**
+
+_- Robert C. Martin_
+
+<br>
+
+**Thank you for visiting my profile!** 🚀
+_Feel free to explore my repositories and don't hesitate to reach out for collaboration opportunities._
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
+
+</div>
