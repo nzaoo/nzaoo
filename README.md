@@ -116,12 +116,6 @@ I'm always excited to connect with fellow developers, discuss new technologies, 
 <a href="https://nzaoo.github.io">
   <img src="https://img.shields.io/badge/Portfolio-4ECDC4?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/nzaoo">
-  <img src="https://img.shields.io/badge/LinkedIn-45B7D1?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/nzaoo">
-  <img src="https://img.shields.io/badge/Twitter-96CEB4?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
 
 
 </div>
