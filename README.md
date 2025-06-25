@@ -123,14 +123,6 @@ I'm always excited to connect with fellow developers, discuss new technologies, 
   <img src="https://img.shields.io/badge/Twitter-96CEB4?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
-### 💝 **Support My Work**
-
-<a href="https://ko-fi.com/nzaoo">
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
-</a>
-<a href="https://github.com/sponsors/nzaoo">
-  <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" />
-</a>
 
 </div>
 
