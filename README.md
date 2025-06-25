@@ -70,18 +70,19 @@ I’m Zaoo, an aspiring web developer navigating the world of code one line at a
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nzaoo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzaoo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" />
-</div>
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nzaoo&theme=dark&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nzaoo&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" />
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nzaoo&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" />
-</div>
+</p>
+
 
 ---
 
