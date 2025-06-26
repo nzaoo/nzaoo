@@ -71,19 +71,19 @@ I’m Zaoo, an aspiring web developer navigating the world of code one line at a
 ## 📊 GitHub Analytics
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nzaoo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nzaoo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzaoo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzaoo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
 </p>
 
 <!-- GitHub Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nzaoo&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" />
+  <img src="https://streak-stats.demolab.com?user=nzaoo&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nzaoo&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nzaoo&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" alt="Activity Graph" />
 </p>
 
 ---
