@@ -79,8 +79,9 @@ I’m Zaoo, an aspiring web developer navigating the world of code one line at a
 
 <!-- GitHub Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nzaoo&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=nzaoo&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
+
 
 <!-- Activity Graph -->
 <p align="center">
