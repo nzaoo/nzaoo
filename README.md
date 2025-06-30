@@ -20,21 +20,63 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-I’m Zaoo, an aspiring web developer navigating the world of code one line at a time — still stumbling over bugs, but learning and growing with every error and every fix.
+I'm **Nzaoo**, a passionate full-stack web developer from Vietnam who loves turning ideas into reality through code. I specialize in creating modern, responsive web applications with beautiful user interfaces and smooth user experiences.
 
-### 🎯 Current Focus
+### 🎯 What I Do
 
-- 🔥 **Build:** Basic games, beginner-friendly websites
-- 📚 **Learn:** Basic programming languages ​​such as HTML, CSS, JavaScript,...
-- 🚀 **Goal:** Get exposed to real projects to increase experience and problem-solving ability
-- 💡 **Philosophy:** Write code with purpose, know what you are lacking, what is unfinished to increase experience
+- 🔥 **Build:** Modern web applications, interactive games, and digital solutions
+- 📚 **Learn:** Continuously exploring new technologies and best practices
+- 🚀 **Create:** User-friendly interfaces with attention to detail
+- 💡 **Solve:** Real-world problems through innovative coding solutions
 
 ### ⚡ Quick Facts
 
-- 🌱 Starting to learn coding day by day
+- 🌱 Currently focused on React, Next.js, and modern web technologies
 - 🎓 Self-taught developer with a passion for continuous learning
-- 🏆 Currently building new projects like games
-- 🤝 Love to learn and explore through bugs
+- 🏆 Building projects that combine creativity with functionality
+- 🤝 Always excited to collaborate and learn from other developers
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### **NZaoCard - Personal Introduction Cards**
+
+[![NZaoCard](https://img.shields.io/badge/NZaoCard-✨%20Beautiful%20Personal%20Cards-blue?style=for-the-badge&logo=react)](https://linkcardgenerator.vercel.app)
+
+A modern web application for creating beautiful personal introduction cards with stunning UI, smooth animations, and optimal user experience.
+
+**Tech Stack:** Next.js 14, TypeScript, Tailwind CSS, Firebase
+
+[🌐 Live Demo](https://linkcardgenerator.vercel.app) • [📁 Repository](https://github.com/nzaoo/linkcard_generator)
+
+---
+
+### **Interactive Digital Business Card**
+
+[![Digital Card](https://img.shields.io/badge/Digital%20Card-🌟%20Interactive%20Portfolio-purple?style=for-the-badge&logo=html5)](https://nzaoo.github.io/nzao_card/)
+
+A modern, interactive digital business card with stunning animations, glassmorphism effects, and professional features.
+
+**Tech Stack:** HTML5, CSS3, JavaScript (ES6+), Web Audio API
+
+[🌐 Live Demo](https://nzaoo.github.io/nzao_card/) • [📁 Repository](https://github.com/nzaoo/nzao_card)
+
+---
+
+### **Maze Game 3D**
+
+[![Maze Game](https://img.shields.io/badge/Maze%20Game-🎮%203D%20First%20Person-green?style=for-the-badge&logo=javascript)](https://nzaoo.github.io/mini_game_maze_3d/)
+
+A first-person maze exploration game built using Three.js with dynamic levels, collectible rewards, and smooth controls.
+
+**Tech Stack:** Three.js, Vite, JavaScript
+
+[🌐 Live Demo](https://nzaoo.github.io/mini_game_maze_3d/) • [📁 Repository](https://github.com/nzaoo/mini_game_maze_3d)
+
+</div>
 
 ---
 
@@ -68,6 +110,8 @@ I’m Zaoo, an aspiring web developer navigating the world of code one line at a
 
 </div>
 
+---
+
 ## 📊 GitHub Analytics
 
 <!-- GitHub Stats -->
@@ -81,7 +125,6 @@ I’m Zaoo, an aspiring web developer navigating the world of code one line at a
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nzaoo&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-
 
 <!-- Activity Graph -->
 <p align="center">
@@ -120,7 +163,6 @@ I'm always excited to connect with fellow developers, discuss new technologies, 
 <a href="https://nzaoo.github.io">
   <img src="https://img.shields.io/badge/Portfolio-4ECDC4?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
-
 
 </div>
 
