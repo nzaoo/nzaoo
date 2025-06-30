@@ -44,6 +44,8 @@ I'm **Nzaoo**, a passionate full-stack web developer from Vietnam who loves turn
 
 ### **NZaoCard - Personal Introduction Cards**
 
+[![NZaoCard](https://img.shields.io/badge/NZaoCard-🚀%20Personal%20Card%20Generator-cyan?style=for-the-badge&logo=next.js)](https://linkcard-psi.vercel.app/)
+
 A modern web application for creating beautiful personal introduction cards with stunning UI, smooth animations, and optimal user experience.
 
 **Tech Stack:** Next.js 14, TypeScript, Tailwind CSS, Firebase
