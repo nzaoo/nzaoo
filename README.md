@@ -44,7 +44,7 @@ I'm **Nzaoo**, a passionate full-stack web developer from Vietnam who loves turn
 
 ### **NZaoCard - Personal Introduction Cards**
 
-[![NZaoCard](https://img.shields.io/badge/NZaoCard-✨%20Beautiful%20Personal%20Cards-blue?style=for-the-badge&logo=react)](https://linkcardgenerator.vercel.app)
+[![NZaoCard](https://img.shields.io/badge/NZaoCard-✨%20Beautiful%20Personal%20Cards-blue?style=for-the-badge&logo=react)]([https://linkcardgenerator.vercel.app](https://linkcard-psi.vercel.app/))
 
 A modern web application for creating beautiful personal introduction cards with stunning UI, smooth animations, and optimal user experience.
 
