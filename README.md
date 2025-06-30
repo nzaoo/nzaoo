@@ -50,7 +50,7 @@ A modern web application for creating beautiful personal introduction cards with
 
 **Tech Stack:** Next.js 14, TypeScript, Tailwind CSS, Firebase
 
-[🌐 Live Demo]([https://linkcardgenerator.vercel.app](https://linkcard-psi.vercel.app/)) • [📁 Repository](https://github.com/nzaoo/linkcard_generator)
+[🌐 Live Demo](https://linkcard-psi.vercel.app/) • [📁 Repository](https://github.com/nzaoo/linkcard_generator)
 
 ---
 
