@@ -5,7 +5,7 @@
   <!-- Enhanced Multi-line Typing Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00D9FFff&center=true&vCenter=true&width=800&lines=🚀+Full-Stack+Web+Developer;⚡+React+%7C+Node.js+%7C+JavaScript;🎨+Passionate+About+Clean+Code;💡+Building+Digital+Solutions;🌟+Always+Learning+%26+Growing" alt="Typing Animation" />
 
-  <!-- Enhanced Status Badges -->
+  <!-- Enhanced Status Badge -->
   <p align="center">
     <img src="https://img.shields.io/badge/🚀%20Status-Open%20to%20Opportunities-00ff00?style=for-the-badge&labelColor=000000" alt="Status" />
     <img src="https://img.shields.io/badge/📍%20Based%20in-Vietnam-ff6b6b?style=for-the-badge&labelColor=000000" alt="Location" />
