@@ -113,12 +113,6 @@ A first-person maze exploration game built using Three.js with dynamic levels, c
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nzaoo&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" alt="Activity Graph" />
 </p>
 
-<!-- Contribution Snake Animation -->
-
-<p align="center">
-  <img src="https://github.com/nzaoo/nzaoo/blob/output/github-contribution-grid-snake.svg" alt="github contribution snake animation" />
-</p>
-
 ---
 
 ## 🏆 Achievements & Recognition
