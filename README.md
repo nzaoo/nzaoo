@@ -91,16 +91,16 @@ A first-person maze exploration game built using Three.js with dynamic levels, c
 ## 🛠️ Tech Arsenal
 
 **Frontend:**
-![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,figma)
+![Frontend](https://skillicons.dev/icons?i=html,css,js,react)
 
 **Backend:**
-![Backend](https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,mongodb,mysql,postgresql)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,python,)
 
 **Tools & Technologies:**
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker,aws,netlify,vercel,postman)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker,aws,netlify,vercel)
 
 **Currently Mastering:**
-![Learning](https://skillicons.dev/icons?i=graphql,redis,kubernetes,tensorflow,firebase,supabase)
+![Learning](https://skillicons.dev/icons?i=graphql,redis,kubernetes,tensorflow,firebase)
 
 ---
 
