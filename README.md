@@ -124,15 +124,16 @@ A first-person maze exploration game built using Three.js with dynamic levels, c
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzaoo&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
-<!-- GitHub Streak -->
+<!-- GitHub Streak   -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nzaoo&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.deno.dev/?user=nzaoo&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- Activity Graph (alternative domain) -->
+<!-- Activity Graph   -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nzaoo&theme=react-dark&hide_border=true&area=true&color=F85D7F&line=F85D7F&point=FFFFFF" alt="Activity Graph" />
+  <img src="https://github-graph.vercel.app/graph?username=nzaoo&theme=react-dark&hide_border=true&area=true&color=F85D7F&line=F85D7F&point=FFFFFF" alt="Activity Graph" />
 </p>
+
 
 ---
 
