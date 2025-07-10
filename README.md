@@ -116,19 +116,17 @@ A first-person maze exploration game built using Three.js with dynamic levels, c
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nzaoo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzaoo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nzaoo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzaoo&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <!-- GitHub Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nzaoo&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nzaoo&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nzaoo&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
