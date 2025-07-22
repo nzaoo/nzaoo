@@ -50,7 +50,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-I'm **Nzaoo**, a passionate full-stack web developer from Vietnam who loves turning ideas into reality through code. I specialize in creating modern, responsive web applications with beautiful user interfaces and smooth user experiences.
+I'm **Nzaoo**, a passionate full-stack web developer from Vietnam who love turning ideas into reality through code. I specialize in creating modern, responsive web applications with beautiful user interfaces and smooth user experiences.
 
 - 🔥 **Build:** Modern web applications, interactive games, and digital solutions
 - 📚 **Learn:** Continuously exploring new technologies and best practices
