@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Nzaoo!
 
-## 🕹️ Welcome to the Nzaoo README Quest!
+## 🕹️ Welcome to the Nzaoo README Quest
 
 
 <div align="center">
