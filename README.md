@@ -1,116 +1,96 @@
-# 👋 Hi there, I'm Nzaoo!
-
-## 🕹️ Welcome to the Nzaoo README Quests
-
+<h1 align="center">👋 Hi, I'm Nzaoo</h1>
+<p align="center"><b>Full-Stack Web Developer | Focused on UI/UX, Clean Code & Modern Web</b></p>
 
 <div align="center">
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00D9FFff&center=true&vCenter=true&width=800&lines=🚀+Full-Stack+Web+Developer;⚡+React+%7C+Node.js+%7C+JavaScript;🎨+Passionate+About+Clean+Code;💡+Building+Digital+Solutions;🌟+Always+Learning+%26+Growing" alt="Typing Animation" />
-
-  <p align="center">
-    <a href="https://github.com/nzaoo?tab=followers">
-      <img src="https://img.shields.io/github/followers/nzaoo?label=Follow&style=for-the-badge&logo=github" alt="GitHub Followers" />
-    </a>
-    <a href="https://github.com/nzaoo?tab=stars">
-      <img src="https://img.shields.io/github/stars/nzaoo?label=Stars&style=for-the-badge&logo=github" alt="GitHub Stars" />
-    </a>
-    <a href="mailto:nzaoo.1372@gmail.com">
-      <img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://nzaoo.github.io">
-      <img src="https://img.shields.io/badge/Portfolio-4ECDC4?style=for-the-badge&logo=About.me&logoColor=white" />
-    </a>
-    <a href="https://www.facebook.com/nzao13/">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-    </a>
-  </p>
-
-  <!-- Profile Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=nzaoo&style=for-the-badge&color=F85D7F&labelColor=0D1117" alt="Profile views" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00D9FFff&center=true&vCenter=true&width=800&lines=React+%7C+Next.js+%7C+Node.js;Clean+Architecture+Lover;Building+Digital+Solutions+That+Work" />
 </div>
 
 ---
 
-## Table of Contents
+## 🔎 Quick Summary
 
-- [About Me](#-about-me)
-- [Featured Projects](#-featured-projects)
-- [Tech Arsenal](#-tech-arsenal)
-- [GitHub Analytics](#-github-analytics)
-- [Achievements & Recognition](#-achievements--recognition)
-- [Get In Touch](#-get-in-touch)
-- [Contribution Guide](#-contribution-guide)
-- [FAQ](#-faq)
-- [Daily Inspiration](#-daily-inspiration)
+- 🧠 Full-stack developer based in Vietnam
+- 🎯 Strong focus on frontend architecture & UX details
+- 🚀 Experienced in building real-world projects from scratch
+- 🧰 Tech stack: React, Next.js, Node.js, Firebase, Tailwind CSS
+- 📈 Always learning & experimenting with new technologies
 
 ---
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+Hi, I’m Nzaoo – a full-stack developer passionate about solving real-world problems through code.
 
-I'm **Nzaoo**, a passionate full-stack web developer from Vietnam who love turning ideas into reality through code. I specialize in creating modern, responsive web applications with beautiful user interfaces and smooth user experiences.
+I enjoy crafting digital products that are both beautiful and functional. Whether it's a clean UI or a scalable backend, I care deeply about writing code that’s maintainable, optimized, and focused on user experience.
 
-- 🔥 **Build:** Modern web applications, interactive games, and digital solutions
-- 📚 **Learn:** Continuously exploring new technologies and best practices
-- 🚀 **Create:** User-friendly interfaces with attention to detail
-- 💡 **Solve:** Real-world problems through innovative coding solutions
+**What I do best:**
+
+- Build modern frontend apps with React / Next.js
+- Create backend services using Node.js / Express
+- Translate UI designs into responsive, accessible interfaces
+- Continuously explore new tools & improve development workflow
 
 ---
 
 ## 🚀 Featured Projects
 
-### [NZaoCard - Personal Introduction Cards](https://linkcard-psi.vercel.app/)
+### 🎴 [NZaoCard – Digital Personal Card Generator](https://linkcard-psi.vercel.app/)
 
-A modern web application for creating beautiful personal introduction cards with stunning UI, smooth animations, and optimal user experience.
+A beautiful card generator for online portfolios and personal links, featuring smooth animations and modern UI/UX.
 
-**Tech Stack:** Next.js 14, TypeScript, Tailwind CSS, Firebase
-[🌐 Live Demo](https://linkcard-psi.vercel.app/) • [📁 Repository](https://github.com/nzaoo/linkcard_generator)
+- 🔹 Built with Next.js 14 + Tailwind CSS
+- 🔹 Authentication & real-time DB with Firebase
+- 🔹 Fully responsive + dark mode
 
----
-
-### [Interactive Digital Business Card](https://nzaoo.github.io/nzao_card/)
-
-A modern, interactive digital business card with stunning animations, glassmorphism effects, and professional features.
-
-**Tech Stack:** HTML5, CSS3, JavaScript (ES6+), Web Audio API
-[🌐 Live Demo](https://nzaoo.github.io/nzao_card/) • [📁 Repository](https://github.com/nzaoo/nzao_card)
+[🌐 Live Demo](https://linkcard-psi.vercel.app/) • [📁 Code](https://github.com/nzaoo/linkcard_generator)
 
 ---
 
-### [Maze Game 3D](https://nzaoo.github.io/mini_game_maze_3d/)
+### 💼 [Interactive Business Card](https://nzaoo.github.io/nzao_card/)
 
-A first-person maze exploration game built using Three.js with dynamic levels, collectible rewards, and smooth controls.
+A dynamic, animated digital business card using glassmorphism and Web Audio API to bring personal branding to life.
 
-**Tech Stack:** Three.js, Vite, JavaScript
-[🌐 Live Demo](https://nzaoo.github.io/mini_game_maze_3d/) • [📁 Repository](https://github.com/nzaoo/mini_game_maze_3d)
+- 🔹 Interactive UI with audio + keyboard events
+- 🔹 Lightweight, pure HTML/CSS/JS project
 
----
-
-## 🛠️ Tech Arsenal
-
-**Frontend:**
-![Frontend](https://skillicons.dev/icons?i=html,css,js,react)
-
-**Backend:**
-![Backend](https://skillicons.dev/icons?i=nodejs,express,python,)
-
-**Tools & Technologies:**
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker,aws,netlify,vercel)
-
-**Currently Mastering:**
-![Learning](https://skillicons.dev/icons?i=graphql,redis,kubernetes,tensorflow,firebase)
+[🌐 Live Demo](https://nzaoo.github.io/nzao_card/) • [📁 Code](https://github.com/nzaoo/nzao_card)
 
 ---
 
-## 📊 GitHub Analytics
+### 🧩 [3D Maze Game (Mini Game)](https://nzaoo.github.io/mini_game_maze_3d/)
+
+A first-person 3D maze exploration game using Three.js, built entirely in JavaScript with dynamic collectibles.
+
+- 🔹 First-person controls
+- 🔹 Dynamic reward system
+- 🔹 Deployed using GitHub Pages
+
+[🌐 Live Demo](https://nzaoo.github.io/mini_game_maze_3d/) • [📁 Code](https://github.com/nzaoo/mini_game_maze_3d)
+
+---
+
+## 🧰 Tech Stack
+
+### 🖼️ Frontend
+![Frontend](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind)
+
+### 🔧 Backend
+![Backend](https://skillicons.dev/icons?i=nodejs,express,firebase)
+
+### ⚙️ Tools
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,docker)
+
+### 🧪 Currently Learning
+![Learning](https://skillicons.dev/icons?i=graphql,redis,kubernetes,tensorflow)
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nzaoo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzaoo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=nzaoo&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nzaoo&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nzaoo&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzaoo&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img src="https://streak-stats.demolab.com?user=nzaoo&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -118,12 +98,12 @@ A first-person maze exploration game built using Three.js with dynamic levels, c
 ## 🏆 Achievements & Recognition
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nzaoo&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nzaoo&theme=radical&no-frame=true&margin-w=4&row=2&column=4" />
 </p>
 
 ---
 
-## 📬 Get In Touch
+## 💬 Let's Connect
 
 <div align="center">
   <a href="mailto:nzaoo.1372@gmail.com">
@@ -142,52 +122,43 @@ A first-person maze exploration game built using Three.js with dynamic levels, c
 
 ---
 
-## 🤝 Contribution Guide
+## 🧭 Contribution Guide
 
-Want to contribute? Awesome!
-
-- Fork this repo and create your branch from `main`
-- If you've improved something, open a pull request
-- For major changes, open an issue first to discuss what you would like to change
-- Please make sure to update tests as appropriate
+- Fork this repo & create your feature branch
+- Commit your changes with clear messages
+- Open a pull request – I welcome improvements & ideas!
 
 ---
 
 ## ❓ FAQ
 
-**Q: Can I use your projects for learning?**
-A: Absolutely! Feel free to fork, clone, and learn.
+**Q: Can I use your code for learning or inspiration?**  
+A: Absolutely. Fork, clone, modify – just don’t forget to ⭐️!
 
-**Q: Are you open to collaboration?**
-A: Yes! Reach out via email or LinkedIn.
+**Q: Open to collaboration or freelance work?**  
+A: Yes. Let’s build something together! Email or LinkedIn works best.
 
-**Q: How can I report a bug or request a feature?**
-A: Please open an [issue](https://github.com/nzaoo/nzaoo/issues).
+**Q: Want to request a feature or report a bug?**  
+A: Open an [issue](https://github.com/nzaoo/nzaoo/issues) right here on GitHub.
 
 ---
 
-## 💭 Daily Inspiration
+## 💡 Quote of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Clean%20code%20always%20looks%20like%20it%20was%20written%20by%20someone%20who%20cares.&author=Robert%20C.%20Martin" />
 </div>
 
 ---
 
-## 🕵️ Secret
+## 🕵️ Secret Section
 
-Congratulations! You found the secret section.
-Send an email to nzaoo.1372@gmail.com with the subject “I found the secret!” to get a surprise badge!
+🎉 You found the hidden message!  
+Send an email to `nzaoo.1372@gmail.com` with the subject `I found the secret!` and I’ll send you a special badge!
 
 ---
 
 <div align="center">
-
-### 🌟 _"Clean code always looks like it was written by someone who cares."_
-
-— Robert C. Martin
-
-**Thank you for visiting my profile! 🚀**
-_Feel free to explore my repositories and don't hesitate to reach out for collaboration opportunities._
-
+  Thank you for visiting my profile! 🚀  
+  Explore my projects and feel free to connect for collaborations.
 </div>
