@@ -159,39 +159,575 @@ A modern portfolio website built with React and Framer Motion, featuring smooth 
 
 ---
 
-## 🏆 Achievements & Recognition
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Stats - Interactive</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
-<div align="center">
+        body {
+            background: linear-gradient(135deg, #0D1117 0%, #161B22 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'JetBrains Mono', monospace;
+            padding: 20px;
+            overflow-x: hidden;
+        }
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=nzaoo&theme=discord&no-frame=true&no-bg=false&margin-w=4&column=6&rank=SECRET,SSS,SS,S,AAA,AA)
+        .container {
+            width: 100%;
+            max-width: 1200px;
+        }
 
-</div>
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+            margin-bottom: 40px;
+        }
 
----
+        .stat-card {
+            background: linear-gradient(135deg, rgba(0, 217, 255, 0.1) 0%, rgba(255, 107, 107, 0.1) 100%);
+            border: 2px solid rgba(0, 217, 255, 0.3);
+            border-radius: 20px;
+            padding: 30px;
+            backdrop-filter: blur(10px);
+            cursor: pointer;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
 
-## 🎯 Current Focus & Learning Goals
+        .stat-card::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle, rgba(0, 217, 255, 0.2) 0%, transparent 70%);
+            transform: translate(0, 0);
+            transition: all 0.6s ease;
+        }
 
-- 🚀 Building scalable microservices architecture
-- 🔐 Strengthening knowledge in cybersecurity best practices
-- 🤖 Exploring AI/ML integration in web applications
-- 📱 Mastering progressive web app development
-- ☁️ Deep diving into cloud-native technologies
+        .stat-card:hover {
+            transform: translateY(-10px);
+            border-color: #00D9FF;
+            box-shadow: 0 20px 50px rgba(0, 217, 255, 0.3);
+        }
 
----
+        .stat-card:hover::before {
+            transform: translate(50px, 50px);
+        }
 
-## 📫 Connect & Collaborate With Me
+        .stat-content {
+            position: relative;
+            z-index: 2;
+        }
 
-I'm always open to interesting projects, freelance opportunities, and networking with fellow developers!
+        .stat-number {
+            font-size: 3.5em;
+            font-weight: bold;
+            background: linear-gradient(135deg, #00D9FF 0%, #FF6B6B 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 10px;
+            font-family: 'Arial', sans-serif;
+            letter-spacing: 2px;
+        }
 
-<div align="center">
+        .stat-label {
+            font-size: 0.95em;
+            color: #8B949E;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 10px;
+        }
 
-[![Email](https://img.shields.io/badge/Email-nzaoo.1372%40gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nzaoo.1372@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-nzaoo.github.io-00D9FF?style=for-the-badge&logo=About.me&logoColor=white)](https://nzaoo.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nzaoo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nzaoo/)
-[![Facebook](https://img.shields.io/badge/Facebook-Nzaoo-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nzao13/)
-[![Twitter](https://img.shields.io/badge/Twitter-Nzaoo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nzaoo)
+        .stat-date {
+            font-size: 0.85em;
+            color: #6E7681;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
 
-</div>
+        .stat-icon {
+            display: inline-block;
+            width: 8px;
+            height: 8px;
+            background: #00D9FF;
+            border-radius: 50%;
+            animation: pulse 2s infinite;
+        }
+
+        .streak-circle {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            background: conic-gradient(#00D9FF 0deg, #FF6B6B 120deg, rgba(0, 217, 255, 0.2) 120deg);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 20px;
+            position: relative;
+            animation: rotate 20s linear infinite;
+        }
+
+        .streak-circle::before {
+            content: '';
+            position: absolute;
+            width: 90%;
+            height: 90%;
+            border-radius: 50%;
+            background: #0D1117;
+            z-index: 1;
+        }
+
+        .streak-number {
+            position: relative;
+            z-index: 2;
+            font-size: 2.5em;
+            color: #00D9FF;
+            font-weight: bold;
+        }
+
+        .activity-chart {
+            background: linear-gradient(135deg, rgba(0, 217, 255, 0.05) 0%, rgba(255, 107, 107, 0.05) 100%);
+            border: 2px solid rgba(0, 217, 255, 0.2);
+            border-radius: 20px;
+            padding: 30px;
+            margin-top: 20px;
+            backdrop-filter: blur(10px);
+        }
+
+        .chart-title {
+            font-size: 1.2em;
+            color: #00D9FF;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        .chart-bars {
+            display: flex;
+            align-items: flex-end;
+            justify-content: space-between;
+            height: 200px;
+            gap: 8px;
+            margin-bottom: 20px;
+        }
+
+        .bar {
+            flex: 1;
+            background: linear-gradient(180deg, #00D9FF 0%, #FF6B6B 100%);
+            border-radius: 8px 8px 0 0;
+            min-height: 5px;
+            position: relative;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            animation: growBar 1.5s ease-out backwards;
+        }
+
+        .bar:hover {
+            transform: scaleY(1.1);
+            box-shadow: 0 10px 30px rgba(0, 217, 255, 0.4);
+        }
+
+        .bar-value {
+            position: absolute;
+            bottom: -25px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 0.8em;
+            color: #8B949E;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+
+        .bar:hover .bar-value {
+            opacity: 1;
+        }
+
+        .languages {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-top: 20px;
+        }
+
+        .language-item {
+            background: rgba(0, 217, 255, 0.1);
+            border-left: 4px solid #00D9FF;
+            padding: 15px;
+            border-radius: 10px;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+
+        .language-item:hover {
+            background: rgba(0, 217, 255, 0.2);
+            transform: translateX(10px);
+        }
+
+        .language-name {
+            color: #00D9FF;
+            font-weight: bold;
+            margin-bottom: 8px;
+        }
+
+        .language-bar {
+            width: 100%;
+            height: 8px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 4px;
+            overflow: hidden;
+        }
+
+        .language-progress {
+            height: 100%;
+            background: linear-gradient(90deg, #00D9FF, #FF6B6B);
+            width: 0%;
+            animation: fillBar 1s ease-out forwards;
+            border-radius: 4px;
+        }
+
+        .interactive-button {
+            background: linear-gradient(135deg, #00D9FF 0%, #FF6B6B 100%);
+            border: none;
+            color: #0D1117;
+            padding: 12px 30px;
+            border-radius: 10px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-family: 'JetBrains Mono', monospace;
+            margin-top: 20px;
+            width: 100%;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .interactive-button:hover {
+            transform: scale(1.05);
+            box-shadow: 0 10px 30px rgba(0, 217, 255, 0.4);
+        }
+
+        .interactive-button:active {
+            transform: scale(0.95);
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+
+        @keyframes rotate {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+
+        @keyframes growBar {
+            from {
+                height: 0;
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+
+        @keyframes fillBar {
+            from {
+                width: 0;
+            }
+            to {
+                width: var(--width);
+            }
+        }
+
+        .floating-particle {
+            position: fixed;
+            pointer-events: none;
+        }
+
+        .particle {
+            width: 4px;
+            height: 4px;
+            background: #00D9FF;
+            border-radius: 50%;
+            opacity: 0;
+            animation: float 3s ease-out forwards;
+        }
+
+        @keyframes float {
+            0% {
+                opacity: 1;
+                transform: translate(0, 0) scale(1);
+            }
+            100% {
+                opacity: 0;
+                transform: translate(var(--tx), var(--ty)) scale(0);
+            }
+        }
+
+        .stat-card:nth-child(2) {
+            animation-delay: 0.1s;
+        }
+
+        .stat-card:nth-child(3) {
+            animation-delay: 0.2s;
+        }
+
+        h2 {
+            color: #00D9FF;
+            text-align: center;
+            margin-bottom: 30px;
+            font-size: 2em;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            text-shadow: 0 0 20px rgba(0, 217, 255, 0.3);
+        }
+
+        .tooltip {
+            position: absolute;
+            background: rgba(0, 217, 255, 0.9);
+            color: #0D1117;
+            padding: 8px 12px;
+            border-radius: 6px;
+            font-size: 0.85em;
+            font-weight: bold;
+            pointer-events: none;
+            z-index: 100;
+            transform: translate(-50%, -120%);
+            white-space: nowrap;
+            opacity: 0;
+            transition: opacity 0.2s ease;
+        }
+
+        .tooltip.show {
+            opacity: 1;
+        }
+
+        @media (max-width: 768px) {
+            .stat-number {
+                font-size: 2.5em;
+            }
+
+            .stats-grid {
+                grid-template-columns: 1fr;
+            }
+
+            h2 {
+                font-size: 1.5em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>📊 GitHub Statistics</h2>
+        
+        <div class="stats-grid">
+            <div class="stat-card" data-stat="contributions">
+                <div class="stat-content">
+                    <div class="stat-number" id="contrib-count">0</div>
+                    <div class="stat-label">Total Contributions</div>
+                    <div class="stat-date">
+                        <span class="stat-icon"></span>
+                        Aug 10, 2024 - Present
+                    </div>
+                </div>
+            </div>
+
+            <div class="stat-card" data-stat="streak">
+                <div class="stat-content">
+                    <div class="streak-circle">
+                        <div class="streak-number" id="streak-count">0</div>
+                    </div>
+                    <div class="stat-label" style="text-align: center;">Current Streak</div>
+                    <div class="stat-date" style="justify-content: center;">
+                        <span class="stat-icon"></span>
+                        Jan 6
+                    </div>
+                </div>
+            </div>
+
+            <div class="stat-card" data-stat="longest">
+                <div class="stat-content">
+                    <div class="stat-number" id="longest-count">0</div>
+                    <div class="stat-label">Longest Streak</div>
+                    <div class="stat-date">
+                        <span class="stat-icon"></span>
+                        Jul 8, 2025 - Jul 24, 2025
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="activity-chart">
+            <div class="chart-title">📈 Activity Graph</div>
+            <div class="chart-bars" id="chartBars"></div>
+            <button class="interactive-button" onclick="animateChart()">🎮 Replay Animation</button>
+        </div>
+
+        <div class="activity-chart">
+            <div class="chart-title">💻 Top Languages</div>
+            <div class="languages" id="languages"></div>
+        </div>
+    </div>
+
+    <script>
+        // 統計数据のアニメーション
+        function animateNumbers() {
+            animateCounter('contrib-count', 0, 720, 2000);
+            animateCounter('streak-count', 0, 1, 1500);
+            animateCounter('longest-count', 0, 17, 1800);
+        }
+
+        function animateCounter(id, start, end, duration) {
+            const element = document.getElementById(id);
+            const startTime = Date.now();
+            
+            const update = () => {
+                const elapsed = Date.now() - startTime;
+                const progress = Math.min(elapsed / duration, 1);
+                const value = Math.floor(start + (end - start) * easeOutQuart(progress));
+                element.textContent = value;
+                
+                if (progress < 1) {
+                    requestAnimationFrame(update);
+                }
+            };
+            
+            update();
+        }
+
+        function easeOutQuart(t) {
+            return 1 - Math.pow(1 - t, 4);
+        }
+
+        // Activity Chart
+        function createChart() {
+            const chartBars = document.getElementById('chartBars');
+            chartBars.innerHTML = '';
+            
+            for (let i = 0; i < 30; i++) {
+                const height = Math.random() * 100;
+                const bar = document.createElement('div');
+                bar.className = 'bar';
+                bar.style.setProperty('--height', height + '%');
+                bar.style.height = height + '%';
+                bar.style.animationDelay = (i * 0.05) + 's';
+                
+                const value = Math.floor(height / 10);
+                bar.innerHTML = `<div class="bar-value">${value}</div>`;
+                
+                bar.addEventListener('mouseenter', function() {
+                    createParticles(this);
+                });
+                
+                chartBars.appendChild(bar);
+            }
+        }
+
+        function animateChart() {
+            const bars = document.querySelectorAll('.bar');
+            bars.forEach((bar, index) => {
+                bar.style.animation = 'none';
+                setTimeout(() => {
+                    const height = Math.random() * 100;
+                    bar.style.height = height + '%';
+                    bar.style.animation = 'growBar 1.5s ease-out forwards';
+                    bar.innerHTML = `<div class="bar-value">${Math.floor(height / 10)}</div>`;
+                }, 10);
+            });
+        }
+
+        // Top Languages
+        function createLanguages() {
+            const languages = [
+                { name: 'JavaScript', percentage: 45 },
+                { name: 'TypeScript', percentage: 30 },
+                { name: 'Python', percentage: 15 },
+                { name: 'CSS', percentage: 10 }
+            ];
+
+            const container = document.getElementById('languages');
+            container.innerHTML = '';
+
+            languages.forEach((lang, index) => {
+                const item = document.createElement('div');
+                item.className = 'language-item';
+                item.innerHTML = `
+                    <div class="language-name">${lang.name}</div>
+                    <div class="language-bar">
+                        <div class="language-progress" style="--width: ${lang.percentage}%; animation-delay: ${index * 0.1}s;"></div>
+                    </div>
+                    <div style="font-size: 0.85em; color: #8B949E; margin-top: 8px;">${lang.percentage}%</div>
+                `;
+                container.appendChild(item);
+            });
+        }
+
+        // Particle Effect
+        function createParticles(element) {
+            const rect = element.getBoundingClientRect();
+            const x = rect.left + rect.width / 2;
+            const y = rect.top + rect.height / 2;
+
+            for (let i = 0; i < 5; i++) {
+                const particle = document.createElement('div');
+                particle.className = 'floating-particle';
+                particle.innerHTML = '<div class="particle"></div>';
+                document.body.appendChild(particle);
+
+                const angle = (Math.PI * 2 * i) / 5;
+                const distance = 100;
+                const tx = Math.cos(angle) * distance;
+                const ty = Math.sin(angle) * distance;
+
+                particle.style.left = x + 'px';
+                particle.style.top = y + 'px';
+                particle.style.setProperty('--tx', tx + 'px');
+                particle.style.setProperty('--ty', ty + 'px');
+
+                setTimeout(() => particle.remove(), 3000);
+            }
+        }
+
+        // Interaction
+        document.querySelectorAll('.stat-card').forEach(card => {
+            card.addEventListener('mouseenter', function() {
+                const label = this.querySelector('.stat-label').textContent;
+                createParticles(this);
+            });
+        });
+
+        // Initialize
+        window.addEventListener('load', () => {
+            setTimeout(animateNumbers, 300);
+            createChart();
+            createLanguages();
+        });
+
+        // Interactive button particle effect
+        document.querySelector('.interactive-button').addEventListener('click', function(e) {
+            createParticles(this);
+        });
+    </script>
+</body>
+</html>
 
 ---
 
