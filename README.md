@@ -137,7 +137,6 @@ Showcasing my work and skills with a modern design.
 <!-- ===== Animated GitHub Statistics Section ===== -->
 
 <style>
-/* ===== GLOBAL ANIMATIONS ===== */
 @keyframes float {
   0% { transform: translateY(0px); }
   50% { transform: translateY(-8px); }
@@ -155,7 +154,6 @@ Showcasing my work and skills with a modern design.
   100% { background-position: 200% 50%; }
 }
 
-/* ===== CONTAINER ===== */
 .stats-wrapper {
   padding: 25px;
   border-radius: 20px;
@@ -164,7 +162,6 @@ Showcasing my work and skills with a modern design.
   animation: gradientMove 12s linear infinite;
 }
 
-/* ===== CARD ===== */
 .stat-card {
   border-radius: 18px;
   overflow: hidden;
@@ -177,13 +174,11 @@ Showcasing my work and skills with a modern design.
   animation: glow 2s infinite;
 }
 
-/* ===== STREAK ===== */
 .streak {
   margin-top: 20px;
   animation: float 5s ease-in-out infinite;
 }
 
-/* ===== GRAPH ===== */
 .graph {
   margin-top: 30px;
   transition: all 0.4s ease;
@@ -194,7 +189,6 @@ Showcasing my work and skills with a modern design.
   filter: drop-shadow(0 0 15px rgba(0,217,255,0.6));
 }
 
-/* ===== TROPHY ===== */
 .trophy {
   margin-top: 25px;
   animation: glow 3s infinite;
@@ -233,9 +227,6 @@ Showcasing my work and skills with a modern design.
 
 </div>
 
----
-
-### 🏆 Achievement Showcase
 <div align="center" class="trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=nzaoo&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </div>
