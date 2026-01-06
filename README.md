@@ -137,16 +137,39 @@ Showcasing my work and skills with a modern design.
 ## 📊 GitHub Statistics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nzaoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzaoo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&langs_count=8" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nzaoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nzaoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="GitHub Stats" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nzaoo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&langs_count=8">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzaoo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&langs_count=8" alt="Top Languages" />
+</picture>
+
 </div>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=nzaoo&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
+<br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nzaoo&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Activity Graph" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nzaoo&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF">
+  <img src="https://streak-stats.demolab.com?user=nzaoo&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nzaoo&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nzaoo&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Activity Graph" />
+</picture>
+
 </div>
 
 ---
@@ -154,7 +177,12 @@ Showcasing my work and skills with a modern design.
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nzaoo&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=nzaoo&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10">
+  <img src="https://github-profile-trophy.vercel.app/?username=nzaoo&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</picture>
+
 </div>
 
 ---
