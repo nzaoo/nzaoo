@@ -103,16 +103,21 @@ const nzaoo = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nzaoo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&border_radius=10&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nzaoo&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&border_radius=10" alt="GitHub Streak" width="48%" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nzaoo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&border_radius=10&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nzaoo&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&border_radius=10)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nzaoo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10&langs_count=8)
 
 </div>
 
-<div align="center">
+### 🐍 Interactive Commits Game
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzaoo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10&langs_count=8" alt="Top Languages" width="48%" />
+Bored with static stats? Try this! **Ăn commit, chạy rắn, tăng điểm!**
 
-</div>
+[![Play Snake Game](https://img.shields.io/badge/🎮%20Play%20Commits%20Snake%20Game-Click%20Here-00D9FF?style=for-the-badge&logo=gamepad&logoColor=white)](https://nzaoo.github.io/snake-commits)
+
+*Control with Arrow Keys or WASD · Spacebar to pause · 3 difficulty levels*
 
 ---
 
