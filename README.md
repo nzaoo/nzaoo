@@ -138,15 +138,15 @@ Showcasing my work and skills with a modern design.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nzaoo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&border_radius=15&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nzaoo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&border_radius=15&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nzaoo&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=8B949E&border_radius=15" />
 
 </div>
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzaoo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=15&langs_count=8" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nzaoo&theme=radical&utcOffset=7" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzaoo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=15&langs_count=8&exclude_repo=nzaoo" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=nzaoo&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=15" />
 
 </div>
 
@@ -156,13 +156,13 @@ Showcasing my work and skills with a modern design.
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nzaoo&custom_title=Nzaoo's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&radius=16)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nzaoo&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Nzaoo's%20Contribution%20Graph)
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nzaoo&theme=radical" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nzaoo&theme=github_dark" width="100%" />
 
 </div>
 
@@ -172,7 +172,7 @@ Showcasing my work and skills with a modern design.
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=nzaoo&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&rank=SSS,SS,S,AAA,AA,A,B,C)
+![Trophies](https://github-profile-trophy.vercel.app/?username=nzaoo&theme=discord&no-frame=true&no-bg=false&margin-w=4&column=7)
 
 </div>
 
