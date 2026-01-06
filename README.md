@@ -1,149 +1,206 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Nzaoo | Full-Stack Dev</title>
-  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap" rel="stylesheet">
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-      font-family: 'JetBrains Mono', monospace;
-    }
-    body {
-      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
-      color: #fff;
-      overflow-x: hidden;
-    }
-    header {
-      text-align: center;
-      padding: 3rem 1rem 1rem;
-      animation: fadeIn 1.2s ease-out;
-    }
-    h1 {
-      font-size: 3rem;
-      color: #00d9ff;
-    }
-    p.subtitle {
-      font-size: 1.2rem;
-      margin-top: 0.5rem;
-      color: #ccc;
-    }
-    section {
-      padding: 2rem 1rem;
-      max-width: 900px;
-      margin: 0 auto;
-      animation: fadeInUp 1s ease-out both;
-    }
-    section:nth-child(even) {
-      background: rgba(255, 255, 255, 0.05);
-      border-radius: 10px;
-      margin-bottom: 2rem;
-    }
-    h2 {
-      color: #f85d7f;
-      margin-bottom: 1rem;
-    }
-    ul {
-      list-style-type: square;
-      padding-left: 1.5rem;
-    }
-    a {
-      color: #4ecdc4;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    .projects .card {
-      background: #112;
-      margin-bottom: 1.5rem;
-      border: 1px solid #333;
-      padding: 1rem;
-      border-radius: 8px;
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
-    }
-    .projects .card:hover {
-      transform: translateY(-5px);
-      box-shadow: 0 5px 15px rgba(0, 217, 255, 0.2);
-    }
-    footer {
-      text-align: center;
-      padding: 2rem 1rem;
-      font-size: 0.9rem;
-      color: #aaa;
-    }
-    .typing {
-      display: inline-block;
-      overflow: hidden;
-      white-space: nowrap;
-      animation: typing 3s steps(30, end), blink 0.75s step-end infinite;
-      border-right: 3px solid #00d9ff;
-      font-size: 1.3rem;
-    }
-    @keyframes fadeIn {
-      from {opacity: 0; transform: translateY(-20px);}
-      to {opacity: 1; transform: translateY(0);}
-    }
-    @keyframes fadeInUp {
-      from {opacity: 0; transform: translateY(40px);}
-      to {opacity: 1; transform: translateY(0);}
-    }
-    @keyframes typing {
-      from { width: 0 }
-      to { width: 100% }
-    }
-    @keyframes blink {
-      50% { border-color: transparent }
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <h1>Hi, I'm Nzaoo 👋</h1>
-    <p class="typing">Full-Stack Developer | UI/UX Lover | Clean Code Enthusiast</p>
-  </header>
+<div align="center">
 
-  <section>
-    <h2>🔎 Quick Summary</h2>
-    <ul>
-      <li>Based in Vietnam 🌏</li>
-      <li>Specializing in React, Next.js, Node.js</li>
-      <li>Passionate about frontend architecture and UX</li>
-      <li>Always learning something new</li>
-    </ul>
-  </section>
+# 👋 Welcome to Nzaoo's Digital Workspace
 
-  <section class="projects">
-    <h2>🚀 Featured Projects</h2>
-    <div class="card">
-      <h3>NZaoCard – Digital Card Generator</h3>
-      <p>Create, share, and style personal cards in seconds using Next.js + Firebase.</p>
-      <a href="https://linkcard-psi.vercel.app/">Live Demo</a> | <a href="https://github.com/nzaoo/linkcard_generator">Repo</a>
-    </div>
-    <div class="card">
-      <h3>Interactive Business Card</h3>
-      <p>Animated, responsive card using pure HTML/CSS/JS with audio interactions.</p>
-      <a href="https://nzaoo.github.io/nzao_card/">Live Demo</a> | <a href="https://github.com/nzaoo/nzao_card">Repo</a>
-    </div>
-    <div class="card">
-      <h3>3D Maze Game</h3>
-      <p>First-person maze game with collectibles built using Three.js.</p>
-      <a href="https://nzaoo.github.io/mini_game_maze_3d/">Play Game</a> | <a href="https://github.com/nzaoo/mini_game_maze_3d">Repo</a>
-    </div>
-  </section>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;React+%7C+Node.js+%7C+TypeScript;Building+Beautiful+Digital+Experiences;Always+Learning+%26+Growing" alt="Typing Animation" />
 
-  <section>
-    <h2>📬 Contact</h2>
-    <p>Email: <a href="mailto:nzaoo.1372@gmail.com">nzaoo.1372@gmail.com</a></p>
-    <p>LinkedIn: <a href="https://linkedin.com/in/nzaoo">@nzaoo</a></p>
-    <p>Portfolio: <a href="https://nzaoo.github.io">nzaoo.github.io</a></p>
-  </section>
+[![GitHub Followers](https://img.shields.io/github/followers/nzaoo?label=Followers&style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117)](https://github.com/nzaoo?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/nzaoo?label=Stars&style=for-the-badge&logo=github&color=FFD700&labelColor=0D1117)](https://github.com/nzaoo?tab=stars)
+[![Profile Views](https://komarev.com/ghpvc/?username=nzaoo&style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/nzaoo)
 
-  <footer>
-    <p>“Clean code always looks like it was written by someone who cares.” – Robert C. Martin</p>
-  </footer>
-</body>
-</html>
+</div>
+
+---
+
+## 🚀 About Me
+
+<img align="right" alt="Coding Animation" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+```typescript
+const nzaoo = {
+    location: "Vietnam 🇻🇳",
+    role: "Full-Stack Developer",
+    code: ["JavaScript", "TypeScript", "Python", "HTML/CSS"],
+    technologies: {
+        frontend: ["React", "Next.js", "Tailwind CSS", "Three.js"],
+        backend: ["Node.js", "Express", "Firebase"],
+        tools: ["Git", "Docker", "AWS", "Vercel"]
+    },
+    currentFocus: "Building scalable web applications",
+    funFact: "I debug with console.log() 🐛"
+};
+```
+
+### What I Do
+
+🎨 **Design** — Craft beautiful, responsive user interfaces  
+⚡ **Develop** — Build modern web applications with cutting-edge tech  
+🚀 **Deploy** — Ship production-ready solutions  
+📚 **Learn** — Continuously expanding my skill set
+
+---
+
+## 💼 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎴 NZaoCard
+**Personal Introduction Card Generator**
+
+Create stunning personal cards with modern UI and smooth animations.
+
+**Stack:** Next.js 14 • TypeScript • Tailwind CSS • Firebase
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00D9FF?style=for-the-badge&logo=vercel)](https://linkcard-psi.vercel.app/)
+[![Repository](https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/nzaoo/linkcard_generator)
+
+</td>
+<td width="50%">
+
+### 💼 Digital Business Card
+**Interactive Professional Card**
+
+Modern business card with glassmorphism effects and audio features.
+
+**Stack:** HTML5 • CSS3 • JavaScript • Web Audio API
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00D9FF?style=for-the-badge&logo=github)](https://nzaoo.github.io/nzao_card/)
+[![Repository](https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/nzaoo/nzao_card)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎮 Maze Game 3D
+**First-Person Maze Explorer**
+
+Immersive 3D maze game with dynamic levels and collectibles.
+
+**Stack:** Three.js • Vite • JavaScript
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00D9FF?style=for-the-badge&logo=github)](https://nzaoo.github.io/mini_game_maze_3d/)
+[![Repository](https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/nzaoo/mini_game_maze_3d)
+
+</td>
+<td width="50%">
+
+### 🌐 Portfolio Website
+**Personal Portfolio**
+
+Showcasing my work and skills with a modern design.
+
+**Stack:** React • Tailwind CSS • Framer Motion
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00D9FF?style=for-the-badge&logo=About.me)](https://nzaoo.github.io)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nzaoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzaoo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&langs_count=8" />
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=nzaoo&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nzaoo&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Activity Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nzaoo&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-nzaoo.1372%40gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nzaoo.1372@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nzaoo.github.io-00D9FF?style=for-the-badge&logo=About.me&logoColor=white)](https://nzaoo.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nzaoo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nzaoo/)
+[![Facebook](https://img.shields.io/badge/Facebook-Nzaoo-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nzao13/)
+
+</div>
+
+---
+
+## 🤝 Open to Collaboration
+
+I'm always interested in working on innovative projects and collaborating with talented developers. If you have an interesting idea or project, feel free to reach out!
+
+### How to Contribute
+1. 🍴 Fork the repository
+2. 🔨 Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. 💾 Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. 📤 Push to the branch (`git push origin feature/AmazingFeature`)
+5. 🎉 Open a Pull Request
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it's%20bad.&author=Cory%20House)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ From [Nzaoo](https://github.com/nzaoo)
+
+**Thanks for visiting! Let's build something amazing together 🚀**
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
