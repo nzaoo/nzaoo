@@ -111,13 +111,11 @@ const nzaoo = {
 
 </div>
 
-### 🐍 Interactive Commits Game
+## 📊 GitHub Metrics
 
-Bored with static stats? Try this! **Ăn commit, chạy rắn, tăng điểm!**
-
-[![Play Snake Game](https://img.shields.io/badge/🎮%20Play%20Commits%20Snake%20Game-Click%20Here-00D9FF?style=for-the-badge&logo=gamepad&logoColor=white)](https://nzaoo.github.io/snake-commits)
-
-*Control with Arrow Keys or WASD · Spacebar to pause · 3 difficulty levels*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nzaoo/nzaoo/main/github-metrics.svg" alt="GitHub Metrics" width="100%">
+</p>
 
 ---
 
