@@ -134,46 +134,112 @@ Showcasing my work and skills with a modern design.
 
 ---
 
-## 📊 GitHub Statistics
+<!-- ===== Animated GitHub Statistics Section ===== -->
 
-<div align="center">
+<style>
+/* ===== GLOBAL ANIMATIONS ===== */
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-8px); }
+  100% { transform: translateY(0px); }
+}
+
+@keyframes glow {
+  0% { box-shadow: 0 0 10px rgba(0,217,255,0.2); }
+  50% { box-shadow: 0 0 25px rgba(0,217,255,0.6); }
+  100% { box-shadow: 0 0 10px rgba(0,217,255,0.2); }
+}
+
+@keyframes gradientMove {
+  0% { background-position: 0% 50%; }
+  100% { background-position: 200% 50%; }
+}
+
+/* ===== CONTAINER ===== */
+.stats-wrapper {
+  padding: 25px;
+  border-radius: 20px;
+  background: linear-gradient(120deg, #0D1117, #111827, #0D1117);
+  background-size: 200% 200%;
+  animation: gradientMove 12s linear infinite;
+}
+
+/* ===== CARD ===== */
+.stat-card {
+  border-radius: 18px;
+  overflow: hidden;
+  transition: all 0.4s ease;
+  animation: float 6s ease-in-out infinite;
+}
+
+.stat-card:hover {
+  transform: scale(1.04);
+  animation: glow 2s infinite;
+}
+
+/* ===== STREAK ===== */
+.streak {
+  margin-top: 20px;
+  animation: float 5s ease-in-out infinite;
+}
+
+/* ===== GRAPH ===== */
+.graph {
+  margin-top: 30px;
+  transition: all 0.4s ease;
+}
+
+.graph:hover {
+  transform: scale(1.03);
+  filter: drop-shadow(0 0 15px rgba(0,217,255,0.6));
+}
+
+/* ===== TROPHY ===== */
+.trophy {
+  margin-top: 25px;
+  animation: glow 3s infinite;
+}
+</style>
+
+<div align="center" class="stats-wrapper">
 
 ### 🎮 Player Stats
 
 <table>
 <tr>
 <td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=nzaoo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&border_radius=15" alt="GitHub Stats" />
-
+<div class="stat-card">
+<img src="https://github-readme-stats.vercel.app/api?username=nzaoo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&border_radius=15" />
+</div>
 </td>
+
 <td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzaoo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=15&langs_count=6" alt="Top Languages" />
-
+<div class="stat-card" style="animation-delay:1s">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzaoo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=15&langs_count=6" />
+</div>
 </td>
 </tr>
 </table>
 
 ### 🔥 Coding Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nzaoo&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=8B949E&border_radius=15" alt="GitHub Streak" />
+<div class="streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nzaoo&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=8B949E&border_radius=15" />
+</div>
 
 ### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nzaoo&custom_title=Nzaoo's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&border_radius=15" alt="Contribution Graph" />
+<div class="graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nzaoo&custom_title=Nzaoo's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&border_radius=15" />
+</div>
 
 </div>
 
 ---
 
-## 🏆 Achievement Showcase
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nzaoo&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
-
+### 🏆 Achievement Showcase
+<div align="center" class="trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=nzaoo&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </div>
+
 
 ---
 
