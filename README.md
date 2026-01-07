@@ -103,18 +103,20 @@ const nzaoo = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nzaoo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&border_radius=10&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nzaoo&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nzaoo&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&border_radius=10)
+![GitHub Streak](https://streak-stats.demolab.com?user=nzaoo&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nzaoo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nzaoo&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 </div>
+
+---
 
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nzaoo/nzaoo/main/github-metrics.svg" alt="GitHub Metrics" width="100%">
+  <img src="https://raw.githubusercontent.com/nzaoo/nzaoo/main/github-metrics.svg" width="100%">
 </p>
 
 ---
@@ -123,7 +125,7 @@ const nzaoo = {
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nzaoo&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nzaoo&theme=react-dark)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nzaoo&theme=github_dark" width="100%" />
 
@@ -135,9 +137,10 @@ const nzaoo = {
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nzaoo&theme=discord&no-frame=true&no-bg=false&margin-w=4&column=6&rank=SECRET,SSS,SS,S,AAA,AA)](https://github.com/nzaoo)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nzaoo&theme=discord&no-frame=true&margin-w=4&column=6)
 
 </div>
+
 
 ---
 
