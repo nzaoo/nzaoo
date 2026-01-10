@@ -40,13 +40,13 @@ Full-stack developer specializing in React, Next.js, and Node.js. Focused on cre
 [![GitHub Streak](https://streak-stats.demolab.com?user=nzaoo&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ### Profile Statistics
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nzaoo&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/nzaoo)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nzaoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/nzaoo)
 
 ### Most Used Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nzaoo&layout=compact&theme=github_dark&hide_border=true&langs_count=8)](https://github.com/nzaoo)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nzaoo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/nzaoo)
 
 ### Contribution Graph
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nzaoo&theme=github-dark&hide_border=true)](https://github.com/nzaoo)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nzaoo&theme=github-dark&hide_border=true)
 
 </div>
 
