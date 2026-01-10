@@ -36,11 +36,19 @@ Full-stack developer specializing in React, Next.js, and Node.js. Focused on cre
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nzaoo&theme=transparent&background=0D1117&ring=58A6FF&fire=58A6FF&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nzaoo&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/nzaoo)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nzaoo&layout=compact&theme=github_dark&hide_border=true)](https://github.com/nzaoo)
 
 </div>
 
----
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nzaoo&theme=transparent&background=0D1117&ring=58A6FF&fire=58A6FF&hide_border=true)](https://git.io/streak-stats)
+
+[![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=nzaoo&theme=github-dark&hide_border=true)](https://github.com/nzaoo)
+
+</div>
 
 ---
 
