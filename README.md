@@ -24,30 +24,31 @@ Hey! I'm Nzaoo, a passionate junior full-stack developer from **Ho Chi Minh City
 
 ```typescript
 const nzaoo = {
-    name: "Nzaoo",
-    role: "Junior Full-Stack Developer",
-    location: "Ho Chi Minh City, Vietnam",
-    
-    skills: {
-        languages: ["JavaScript", "TypeScript", "Python", "HTML/CSS"],
-        frontend: ["React", "Next.js", "Tailwind CSS", "Three.js"],
-        backend: ["Node.js", "Express", "Firebase"],
-        tools: ["Git", "Docker", "Vercel", "VS Code"]
-    },
-    
-    passionate_about: [
-        "Clean Code",
-        "User Experience",
-        "Learning New Technologies",
-        "Open Source"
-    ],
-    
-    currently_learning: "Advanced React Patterns & System Design",
-    fun_fact: "console.log() is my best friend 🐛"
+  name: "Nzaoo",
+  role: "Junior Full-Stack Developer",
+  location: "Ho Chi Minh City, Vietnam",
+
+  skills: {
+    languages: ["JavaScript", "TypeScript", "Python", "HTML/CSS"],
+    frontend: ["React", "Next.js", "Tailwind CSS", "Three.js"],
+    backend: ["Node.js", "Express", "Firebase"],
+    tools: ["Git", "Docker", "Vercel", "VS Code"],
+  },
+
+  passionate_about: [
+    "Clean Code",
+    "User Experience",
+    "Learning New Technologies",
+    "Open Source",
+  ],
+
+  currently_learning: "Advanced React Patterns & System Design",
+  fun_fact: "console.log() is my best friend 🐛",
 };
 ```
 
 **What Drives Me:**
+
 - 🎨 Creating beautiful & responsive user interfaces
 - ⚡ Writing performant, maintainable code
 - 📚 Continuous learning & self-improvement
@@ -59,12 +60,12 @@ const nzaoo = {
 
 ## 💼 Featured Projects
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|-----------|-------|
-| **🎴 NZaoCard** | Personal intro card generator with modern UI | Next.js • TypeScript • Tailwind • Firebase | [![Demo](https://img.shields.io/badge/Live-Demo-00D9FF?style=flat-square)](https://linkcard-psi.vercel.app/) [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square)](https://github.com/nzaoo/linkcard_generator) |
-| **💼 Digital Card** | Interactive business card with glassmorphism | HTML5 • CSS3 • JavaScript • Web Audio | [![Demo](https://img.shields.io/badge/Live-Demo-00D9FF?style=flat-square)](https://nzaoo.github.io/nzao_card/) [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square)](https://github.com/nzaoo/nzao_card) |
-| **🎮 Maze Game 3D** | Immersive first-person 3D maze explorer | Three.js • Vite • JavaScript • WebGL | [![Demo](https://img.shields.io/badge/Live-Demo-00D9FF?style=flat-square)](https://nzaoo.github.io/mini_game_maze_3d/) [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square)](https://github.com/nzaoo/mini_game_maze_3d) |
-| **🌐 Portfolio** | Personal portfolio website | React • Tailwind CSS • Framer Motion | [![Demo](https://img.shields.io/badge/Live-Demo-00D9FF?style=flat-square)](https://nzaoo.github.io) |
+| Project             | Description                                  | Tech Stack                                 | Links                                                                                                                                                                                                                                           |
+| ------------------- | -------------------------------------------- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **🎴 NZaoCard**     | Personal intro card generator with modern UI | Next.js • TypeScript • Tailwind • Firebase | [![Demo](https://img.shields.io/badge/Live-Demo-00D9FF?style=flat-square)](https://linkcard-psi.vercel.app/) [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square)](https://github.com/nzaoo/linkcard_generator)          |
+| **💼 Digital Card** | Interactive business card with glassmorphism | HTML5 • CSS3 • JavaScript • Web Audio      | [![Demo](https://img.shields.io/badge/Live-Demo-00D9FF?style=flat-square)](https://nzaoo.github.io/nzao_card/) [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square)](https://github.com/nzaoo/nzao_card)                 |
+| **🎮 Maze Game 3D** | Immersive first-person 3D maze explorer      | Three.js • Vite • JavaScript • WebGL       | [![Demo](https://img.shields.io/badge/Live-Demo-00D9FF?style=flat-square)](https://nzaoo.github.io/mini_game_maze_3d/) [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square)](https://github.com/nzaoo/mini_game_maze_3d) |
+| **🌐 Portfolio**    | Personal portfolio website                   | React • Tailwind CSS • Framer Motion       | [![Demo](https://img.shields.io/badge/Live-Demo-00D9FF?style=flat-square)](https://nzaoo.github.io)                                                                                                                                             |
 
 ---
 
@@ -103,11 +104,14 @@ const nzaoo = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nzaoo&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=nzaoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzaoo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nzaoo&theme=radical&hide_border=true)
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nzaoo&layout=compact&theme=radical&hide_border=true&langs_count=8)
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nzaoo&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 
@@ -125,11 +129,15 @@ const nzaoo = {
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nzaoo&theme=react-dark)
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nzaoo&theme=github_dark" width="100%" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nzaoo&theme=tokyo-night&hide_border=true&bg_color=0D1117)
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nzaoo/nzaoo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nzaoo/nzaoo/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/nzaoo/nzaoo/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 ---
 
@@ -137,10 +145,9 @@ const nzaoo = {
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nzaoo&theme=discord&no-frame=true&margin-w=4&column=6)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nzaoo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
-
 
 ---
 
@@ -198,6 +205,7 @@ git push origin feature/YourFeature
 > **"Write code that is easy to understand, not just easy to write."**
 
 I believe in:
+
 - ✅ Clean, readable code
 - ✅ Meaningful project contributions
 - ✅ Continuous learning & improvement
