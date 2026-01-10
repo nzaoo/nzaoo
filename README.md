@@ -12,18 +12,19 @@ Building scalable web applications with modern tech stack. Passionate about clea
 Full-stack developer specializing in React, Next.js, and Node.js. Focused on creating responsive, performant applications with emphasis on code quality and maintainability.
 
 **Core Skills:**
+
 - Frontend: React, Next.js, TypeScript, Tailwind CSS
 - Backend: Node.js, Express, Firebase, REST APIs
 - Tools: Git, Docker, Vercel, PostgreSQL
 
 ## Featured Projects
 
-| Project | Tech | Links |
-|---------|------|-------|
-| **LinkCard Generator** | Next.js · TypeScript · Tailwind · Firebase | [![Demo](https://img.shields.io/badge/Live-Demo-00D9FF?style=flat-square)](https://linkcard-psi.vercel.app/) [![Code](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/nzaoo/linkcard_generator) |
-| **3D Maze Game** | Three.js · Vite · WebGL | [![Demo](https://img.shields.io/badge/Live-Demo-00D9FF?style=flat-square)](https://nzaoo.github.io/mini_game_maze_3d/) [![Code](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/nzaoo/mini_game_maze_3d) |
-| **Digital Card** | HTML5 · CSS3 · JavaScript | [![Demo](https://img.shields.io/badge/Live-Demo-00D9FF?style=flat-square)](https://nzaoo.github.io/nzao_card/) [![Code](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/nzaoo/nzao_card) |
-| **Portfolio** | React · Tailwind CSS · Framer Motion | [![Demo](https://img.shields.io/badge/Live-Demo-00D9FF?style=flat-square)](https://nzaoo.github.io) |
+| Project                | Tech                                       | Links                                                                                                                                                                                                                                                  |
+| ---------------------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **LinkCard Generator** | Next.js · TypeScript · Tailwind · Firebase | [![Demo](https://img.shields.io/badge/Live-Demo-00D9FF?style=flat-square)](https://linkcard-psi.vercel.app/) [![Code](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/nzaoo/linkcard_generator)          |
+| **3D Maze Game**       | Three.js · Vite · WebGL                    | [![Demo](https://img.shields.io/badge/Live-Demo-00D9FF?style=flat-square)](https://nzaoo.github.io/mini_game_maze_3d/) [![Code](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/nzaoo/mini_game_maze_3d) |
+| **Digital Card**       | HTML5 · CSS3 · JavaScript                  | [![Demo](https://img.shields.io/badge/Live-Demo-00D9FF?style=flat-square)](https://nzaoo.github.io/nzao_card/) [![Code](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/nzaoo/nzao_card)                 |
+| **Portfolio**          | React · Tailwind CSS · Framer Motion       | [![Demo](https://img.shields.io/badge/Live-Demo-00D9FF?style=flat-square)](https://nzaoo.github.io)                                                                                                                                                    |
 
 ---
 
@@ -35,14 +36,15 @@ Full-stack developer specializing in React, Next.js, and Node.js. Focused on cre
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nzaoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzaoo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nzaoo&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/nzaoo)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nzaoo&layout=compact&theme=github_dark&hide_border=true&langs_count=6)](https://github.com/nzaoo)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nzaoo&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nzaoo&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
